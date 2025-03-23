@@ -5,7 +5,7 @@
     <style>
         body {
             text-align: center;
-            background-color: #FFFF00;
+            background-color: #7CFC00;
             font-weight: 600;
             font-size: 18px;
             font-family: "Helvetica", "Arial", sans-serif;
